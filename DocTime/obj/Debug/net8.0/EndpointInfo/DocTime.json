@@ -229,6 +229,44 @@
         }
       }
     },
+    "/api/Appointments/Get-Doctor": {
+      "get": {
+        "tags": [
+          "Appointments"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Doctor"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Doctor"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Doctor"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "/api/Auth/register": {
       "post": {
         "tags": [

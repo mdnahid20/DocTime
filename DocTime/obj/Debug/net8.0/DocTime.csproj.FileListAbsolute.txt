@@ -152,3 +152,4 @@ E:\Project\DumProject\DocTime\DocTime\obj\Debug\net8.0\DocTime.pdb
 E:\Project\DumProject\DocTime\DocTime\obj\Debug\net8.0\DocTime.genruntimeconfig.cache
 E:\Project\DumProject\DocTime\DocTime\obj\Debug\net8.0\ref\DocTime.dll
 E:\Project\DumProject\DocTime\DocTime\bin\Debug\net8.0\BCrypt.Net-Next.dll
+E:\Project\DumProject\DocTime\DocTime\obj\Debug\net8.0\DocTime.sourcelink.json

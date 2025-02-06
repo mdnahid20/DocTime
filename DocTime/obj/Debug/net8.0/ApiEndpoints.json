@@ -86,7 +86,7 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "appointment",
+        "Name": "requestAppointment",
         "Type": "DocTime.Dtos.AppointmentDto",
         "IsRequired": true
       }
@@ -112,7 +112,7 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "doctor",
+        "Name": "requestDoctor",
         "Type": "DocTime.Dtos.DoctorDto",
         "IsRequired": true
       }
@@ -120,6 +120,26 @@
     "ReturnTypes": [
       {
         "Type": "DocTime.Model.Doctor",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DocTime.Controllers.AppointmentsController",
+    "Method": "GetDoctors",
+    "RelativePath": "api/Appointments/Get-Doctor",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[DocTime.Model.Doctor, DocTime, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",

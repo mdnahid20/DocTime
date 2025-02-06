@@ -7,16 +7,20 @@
       "RelativeMoniker": "D:0:0:{82320E8F-7E4E-4C1E-BDD4-B7AB63C3FA1B}|DocTime\\DocTime.csproj|solutionrelative:doctime\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{82320E8F-7E4E-4C1E-BDD4-B7AB63C3FA1B}|DocTime\\DocTime.csproj|e:\\project\\dumproject\\doctime\\doctime\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82320E8F-7E4E-4C1E-BDD4-B7AB63C3FA1B}|DocTime\\DocTime.csproj|solutionrelative:doctime\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82320E8F-7E4E-4C1E-BDD4-B7AB63C3FA1B}|DocTime\\DocTime.csproj|e:\\project\\dumproject\\doctime\\doctime\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82320E8F-7E4E-4C1E-BDD4-B7AB63C3FA1B}|DocTime\\DocTime.csproj|solutionrelative:doctime\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{82320E8F-7E4E-4C1E-BDD4-B7AB63C3FA1B}|DocTime\\DocTime.csproj|e:\\project\\dumproject\\doctime\\doctime\\model\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82320E8F-7E4E-4C1E-BDD4-B7AB63C3FA1B}|DocTime\\DocTime.csproj|solutionrelative:doctime\\model\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{82320E8F-7E4E-4C1E-BDD4-B7AB63C3FA1B}|DocTime\\DocTime.csproj|e:\\project\\dumproject\\doctime\\doctime\\dtos\\doctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82320E8F-7E4E-4C1E-BDD4-B7AB63C3FA1B}|DocTime\\DocTime.csproj|solutionrelative:doctime\\dtos\\doctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82320E8F-7E4E-4C1E-BDD4-B7AB63C3FA1B}|DocTime\\DocTime.csproj|e:\\project\\dumproject\\doctime\\doctime\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82320E8F-7E4E-4C1E-BDD4-B7AB63C3FA1B}|DocTime\\DocTime.csproj|solutionrelative:doctime\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{82320E8F-7E4E-4C1E-BDD4-B7AB63C3FA1B}|DocTime\\DocTime.csproj|e:\\project\\dumproject\\doctime\\doctime\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{82320E8F-7E4E-4C1E-BDD4-B7AB63C3FA1B}|DocTime\\DocTime.csproj|e:\\project\\dumproject\\doctime\\doctime\\doctime.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{82320E8F-7E4E-4C1E-BDD4-B7AB63C3FA1B}|DocTime\\DocTime.csproj|solutionrelative:doctime\\doctime.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82320E8F-7E4E-4C1E-BDD4-B7AB63C3FA1B}|DocTime\\DocTime.csproj|e:\\project\\dumproject\\doctime\\doctime\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82320E8F-7E4E-4C1E-BDD4-B7AB63C3FA1B}|DocTime\\DocTime.csproj|solutionrelative:doctime\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,20 +62,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AppointmentDto.cs",
-              "DocumentMoniker": "E:\\Project\\DumProject\\DocTime\\DocTime\\Dtos\\AppointmentDto.cs",
-              "RelativeDocumentMoniker": "DocTime\\Dtos\\AppointmentDto.cs",
-              "ToolTip": "E:\\Project\\DumProject\\DocTime\\DocTime\\Dtos\\AppointmentDto.cs",
-              "RelativeToolTip": "DocTime\\Dtos\\AppointmentDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T12:29:40.723Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "DoctorDto.cs",
               "DocumentMoniker": "E:\\Project\\DumProject\\DocTime\\DocTime\\Dtos\\DoctorDto.cs",
               "RelativeDocumentMoniker": "DocTime\\Dtos\\DoctorDto.cs",
@@ -83,12 +70,11 @@
               "RelativeToolTip": "DocTime\\Dtos\\DoctorDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T12:29:21.618Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T12:29:21.618Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ApiController.cs",
               "DocumentMoniker": "E:\\Project\\DumProject\\DocTime\\DocTime\\Controllers\\ApiController.cs",
               "RelativeDocumentMoniker": "DocTime\\Controllers\\ApiController.cs",
@@ -96,8 +82,7 @@
               "RelativeToolTip": "DocTime\\Controllers\\ApiController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T17:59:28.202Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T17:59:28.202Z"
             },
             {
               "$type": "Document",
@@ -107,14 +92,14 @@
               "RelativeDocumentMoniker": "DocTime\\Controllers\\AppointmentsController.cs",
               "ToolTip": "E:\\Project\\DumProject\\DocTime\\DocTime\\Controllers\\AppointmentsController.cs",
               "RelativeToolTip": "DocTime\\Controllers\\AppointmentsController.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAYwCkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAhwHIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T17:54:14.631Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Doctor.cs",
               "DocumentMoniker": "E:\\Project\\DumProject\\DocTime\\DocTime\\Model\\Doctor.cs",
               "RelativeDocumentMoniker": "DocTime\\Model\\Doctor.cs",
@@ -122,25 +107,49 @@
               "RelativeToolTip": "DocTime\\Model\\Doctor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T12:22:10.955Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T12:22:10.955Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "AuthController.cs",
               "DocumentMoniker": "E:\\Project\\DumProject\\DocTime\\DocTime\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "DocTime\\Controllers\\AuthController.cs",
               "ToolTip": "E:\\Project\\DumProject\\DocTime\\DocTime\\Controllers\\AuthController.cs",
               "RelativeToolTip": "DocTime\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowFAAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T11:27:21.716Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\Project\\DumProject\\DocTime\\DocTime\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DocTime\\AppDbContext.cs",
+              "ToolTip": "E:\\Project\\DumProject\\DocTime\\DocTime\\AppDbContext.cs",
+              "RelativeToolTip": "DocTime\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:33:42.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "AppointmentDto.cs",
+              "DocumentMoniker": "E:\\Project\\DumProject\\DocTime\\DocTime\\Dtos\\AppointmentDto.cs",
+              "RelativeDocumentMoniker": "DocTime\\Dtos\\AppointmentDto.cs",
+              "ToolTip": "E:\\Project\\DumProject\\DocTime\\DocTime\\Dtos\\AppointmentDto.cs",
+              "RelativeToolTip": "DocTime\\Dtos\\AppointmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T12:29:40.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "AuthDto.cs",
               "DocumentMoniker": "E:\\Project\\DumProject\\DocTime\\DocTime\\Dtos\\AuthDto.cs",
               "RelativeDocumentMoniker": "DocTime\\Dtos\\AuthDto.cs",
@@ -148,37 +157,22 @@
               "RelativeToolTip": "DocTime\\Dtos\\AuthDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T12:29:26.323Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T12:29:26.323Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "DocTime",
               "DocumentMoniker": "E:\\Project\\DumProject\\DocTime\\DocTime\\DocTime.csproj",
               "RelativeDocumentMoniker": "DocTime\\DocTime.csproj",
               "ToolTip": "E:\\Project\\DumProject\\DocTime\\DocTime\\DocTime.csproj",
               "RelativeToolTip": "DocTime\\DocTime.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-06T09:30:33.244Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T09:30:33.244Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "E:\\Project\\DumProject\\DocTime\\DocTime\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "DocTime\\AppDbContext.cs",
-              "ToolTip": "E:\\Project\\DumProject\\DocTime\\DocTime\\AppDbContext.cs",
-              "RelativeToolTip": "DocTime\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T11:33:42.9Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Project\\DumProject\\DocTime\\DocTime\\Program.cs",
               "RelativeDocumentMoniker": "DocTime\\Program.cs",
@@ -186,12 +180,11 @@
               "RelativeToolTip": "DocTime\\Program.cs",
               "ViewState": "AgIAAEQAAAAAAAAAAAAAAGEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T13:20:57.528Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T13:20:57.528Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "E:\\Project\\DumProject\\DocTime\\DocTime\\appsettings.Development.json",
               "RelativeDocumentMoniker": "DocTime\\appsettings.Development.json",
@@ -199,8 +192,7 @@
               "RelativeToolTip": "DocTime\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-05T13:48:43.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T13:48:43.676Z"
             }
           ]
         }

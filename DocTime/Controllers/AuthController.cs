@@ -78,7 +78,7 @@ public class AuthController : ApiController
         signingCredentials: signIn
         );
         string tokenValue = new JwtSecurityTokenHandler().WriteToken(token); 
-        return Ok(new { Token = tokenValue, User = user });
+        return Ok(new { Token = tokenValue });
     }
 
     private string GenerateJwtToken(User user)
